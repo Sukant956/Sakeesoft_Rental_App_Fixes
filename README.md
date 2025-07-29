@@ -2,7 +2,7 @@
 This Flutter-based app is used to manage rental properties, owners, tenants, and payments.
 
 ## My Contributions (June 2025 – Present)
-Worked as a Junior Software Engineer Intern at Sakeesoft on a rental management application.
+Worked as a Junior Software Engineer at Sakeesoft on a rental management application.
 
 ###  Bugs Fixed & UI Enhancements:
 Bug Fixes & Enhancements in Rental App (Flutter)
